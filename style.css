@@ -1,0 +1,20 @@
+.container-fotos img {
+    width: 200px;
+    min-height: 200px;
+    border-radius: 5%;
+}
+
+.container-foto {
+    float: left;
+    margin: 10px;
+    box-shadow: 0px 0px 5px #888888;
+    border-radius: 5%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
